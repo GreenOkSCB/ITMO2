@@ -50,7 +50,7 @@ public class Lesson1 {
         int int1 = 12;
         int res = (int) long1 + int1;
 
-        System.out.println(8%3);
+        System.out.println(1000%375);
 
         //    -- декремент - уменьшение на 1
         //    ++ инкремент - увеличение на 1
